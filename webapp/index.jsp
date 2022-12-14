@@ -21,6 +21,7 @@
 <p/>
 <h1>테스트</h1>
 <h1>테스트1</h1>
+<h1>test1</h1>
 <!-- main 페이지 사진 slide show 시작 -->
   <!-- slide show 사진 1 -->
   <div class="mySlides w3-display-container w3-center">
